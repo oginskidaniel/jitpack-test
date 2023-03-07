@@ -8,9 +8,9 @@
         <version>2.6.14</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>com.github.oginskidaniel</groupId>
     <artifactId>ws-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>ws-demo</name>
     <description>ws-demo</description>
     <properties>
