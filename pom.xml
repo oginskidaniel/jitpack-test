@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.github.oginskidaniel</groupId>
     <artifactId>ws-demo</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>ws-demo</name>
     <description>ws-demo</description>
     <properties>
